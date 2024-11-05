@@ -1,3 +1,3 @@
-# Antarjalik
+# Read Me
 
-![logo](https://raw.githubusercontent.com/antarjalik/antarjalik/main/antarjalik-02.png)
+This repository contains graphic logos and documents of the Bangladesh Students' Union.
